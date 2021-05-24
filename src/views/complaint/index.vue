@@ -55,6 +55,7 @@ export default {
       ],
       tableData: [],
       total: 0,
+	  name: '---',
       tableCols: [
         {
           label: "举报人",
